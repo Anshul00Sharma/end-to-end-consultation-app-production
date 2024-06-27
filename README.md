@@ -1,4 +1,4 @@
-![alt text](https://i.ibb.co/nzbzc8v/Untitled-2024-06-21-1114.png)
+![alt text](https://i.ibb.co/qrGCkYg/Full-Stack-Consultation-highly-scalable-Chat-app.png)
 # Turborepo starter
 
 This is an official starter Turborepo.
